@@ -23,7 +23,7 @@ Buy bundle: https://explorer.jito.wtf/bundle/4f1f4d21b0f5e3d5ca3311abeec64c35931
 ### Configurable Buyer Setup
 🔔 Personalized Buyers: Configure up to 20 unique keypair buyers to tailor your launch strategies to your goals.
 ### Exceptional Performance
-🤖 Speed and Stability: Experience industry-leading performance, reliability, and speed with our advanced tool.
+🤖 Speed and Stability: Experience industry-leading performance, reliability, and speed with our advanced tool........
 ### Integrated Onchain Program
 📂 Onchain Functionality: Utilize our custom onchain program for seamless integration and enhanced operations.
 ### Advanced Selling Strategies
